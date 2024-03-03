@@ -10,7 +10,7 @@ more-itertools==4.0.0
 six==1.10.0
 attrs==17.4.0
 pluggy==0.6.0
-pytest==3.6.1
+pytest==8.1.0
 
 
 #Converage
